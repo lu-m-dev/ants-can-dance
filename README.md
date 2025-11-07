@@ -1,6 +1,8 @@
 # So You Think Ants Can Dance
 Hierarchial character animation system using motion capture data.
 
+_Please note: The full source code is omitted from this public mirror to preserve academic integrity. It can be provided for review upon request._
+
 ## Demo
 <img src="./demo.gif" alt="game demo" style="width: 90%; height: auto; display: block; margin: auto;"/>
 
